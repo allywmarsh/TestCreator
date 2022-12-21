@@ -8,7 +8,7 @@
     },
     {
       "route": "/*",
-      "allowedRoles": ["authenticated"]
+      "allowedRoles": ["authenticated", "admin"]
     }
   ],
   "responseOverrides": {
