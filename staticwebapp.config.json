@@ -7,7 +7,7 @@
       "rewrite": "/.auth/login/aadb2c"
     },
     {
-      "route": "/*",
+      "route": "/admin",
       "allowedRoles": ["authenticated", "admin"]
     }
   ],
